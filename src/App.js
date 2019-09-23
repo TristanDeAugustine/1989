@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
-import HelloWorld from './components/HelloWorld'
+import MovieApiGrab from './components/Movie-db'
 
 class App extends Component {
   render() {
-    return <HelloWorld />
+    return <MovieApiGrab />
   }
 }
 
